@@ -1,0 +1,14 @@
+.newuser{
+    margin-top: 3%;
+    margin: auto;
+    padding:2% ;
+    align-content: center;
+    width: 70%;
+    
+    
+}
+.userform{
+    padding: 5%;
+    outline: auto rgb(63, 63, 62);
+    border-radius: 20px;
+}
